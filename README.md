@@ -6,7 +6,7 @@
 
 🔹 **Software Engineer** | 🎯 Passionate about Frontend & Full Stack Development | 🏆 3+ Years Experience  
 🔹 Currently working at **Wipro Limited (Client: British Telecommunications)**  
-🔹 Love solving problems, optimizing performance, & building scalable solutions.  
+🔹 Love solving problems, optimizing performance, & building scalable solutions.
 
 > ⚠️ **Note:** My GitHub might seem a bit like a ghost town 👻— as my day-to-day work happens in a closed-source, **GitLab Enterprise** instance, locked away like a corporate treasure chest 🏴‍☠️.  Don't let the commit frequency fool you! 😉 
 
@@ -67,11 +67,16 @@
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
 
 ### 🛠️ Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![LightHouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)
+
+### 🎨🖌️ UI/UX  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)) 
+
+
 
 ## 🌟 GitHub Coolness Showcase
 
@@ -85,8 +90,8 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=avijeetnair&theme=radical&hide_border=true)
 
 ## 💡 Fun Fact  
-🚀 I juggle dev work with UI/UX mockup creation, fast-tracking project timelines — Figma + Code = Team-Efficiency! ✨  
-🏆 Recognized for **innovation & impact**—whether it's optimizing workflows, leveraging Alexa-skills for Voice-UIs or building AI-driven solutions in hackathons, I turn ideas into results! 🚀  
+🚀 I juggle Dev work with designing UI/UX mockups/workflows, fast-tracking project timelines — Figma + Code = Team-Efficiency! ✨  
+🏆 Recognized for **innovation & impact** — whether it's optimizing workflows, leveraging Alexa-skills or building local-AI solutions in hackathons - I turn ideas into reality! 🚀  
 
 ## 👀 Profile Visitors
 ![Visitor Badge](https://komarev.com/ghpvc/?username=avijeetnair&style=flat-square&color=blue)
