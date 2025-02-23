@@ -85,17 +85,18 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=avijeetnair&theme=radical&hide_border=true)
 
 ## 💡 Fun Fact  
-🚀 I juggle dev work with UI/UX mockups, fast-tracking project timelines — Figma + Code = Efficiency! ✨  
-🏆 Recognized for **innovation & impact**—whether it's optimizing workflows, leveraging Alexa-skills for Voice-UIs or building AI-driven solutions, I turn ideas into results! 🚀  
+🚀 I juggle dev work with UI/UX mockup creation, fast-tracking project timelines — Figma + Code = Team-Efficiency! ✨  
+🏆 Recognized for **innovation & impact**—whether it's optimizing workflows, leveraging Alexa-skills for Voice-UIs or building AI-driven solutions in hackathons, I turn ideas into results! 🚀  
 
 ## 👀 Profile Visitors
 ![Visitor Badge](https://komarev.com/ghpvc/?username=avijeetnair&style=flat-square&color=blue)
 
 ## 📫 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avijeet-nair)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avijeetnair)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/avijeet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avijeet-nair) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avijeetnair) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/avijeet) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avijeetnair.avj@gmail.com)  
 
 ---
 
